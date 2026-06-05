@@ -274,5 +274,9 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
 </p>
 
 <p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="97%" alt="3D Contribution Calendar" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-kartikeya-rajs-projects.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&langs_count=10&card_width=450&v=2" alt="Top Languages" />
 </p>
