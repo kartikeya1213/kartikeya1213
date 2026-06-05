@@ -270,9 +270,9 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-nine-rose.vercel.app/graph?username=kartikeya1213&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff" width="97%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph-nine-rose.vercel.app/graph?username=kartikeya1213&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff&v=2" width="97%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-kartikeya-rajs-projects.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&langs_count=10&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats-kartikeya-rajs-projects.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&langs_count=10&card_width=450&v=2" alt="Top Languages" />
 </p>
