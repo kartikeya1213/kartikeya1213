@@ -44,11 +44,12 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
 
 <p>
   <img src="https://skillicons.dev/icons?i=threejs" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white&style=for-the-badge" height="48" alt="GSAP" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white&style=for-the-badge" height="48" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="48" alt="GSAP" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Lenis-111111?style=flat-square&logoColor=white&style=for-the-badge" height="48" alt="Lenis Scroll" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="48" alt="Framer Motion" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lenis-111111?style=for-the-badge&logoColor=white" height="48" alt="Lenis Scroll" />
 </p>
 
 **Backend & Database**
@@ -63,8 +64,6 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
   &nbsp;
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48" alt="Cloudinary" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Nixpacks-000000?style=for-the-badge&logoColor=white" height="48" alt="Nixpacks" />
 </p>
 
 ---
@@ -75,141 +74,192 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
 *Premium Next.js web app for an international tour, travel & visa consultancy agency.*
 - 🎨 GSAP · Framer Motion · Lenis Smooth Scroll for high-fidelity transitions
 - ☁️ Automated Cloudinary API asset sync & next-gen image optimization
-- ⚡ Schema markups (LocalBusiness, TravelAgency), canonical URLs, web vitals
-- 🛠️ **Stack**: `Next.js 16` `TypeScript` `Tailwind CSS` `Nodemailer` `Nixpacks`
+- ⚡ Schema markups, canonical URLs & web vitals optimization
+- `Next.js` `TypeScript` `Tailwind CSS` `Nodemailer` `Nixpacks`
 
 ---
 
-#### 💼 Digital Vibe Solutions — CRM & Website
-*Internal full-stack CRM + marketing agency website.*
-- Multi-role auth, client management dashboard, task tracking & lead pipeline
-- 🛠️ **Stack**: `React` `Node.js` `MySQL`
+#### 🌐 [Personal Portfolio](https://github.com/kartikeya1213/kartikeyaraj)
+*Personal developer portfolio website.*
+- `React` `CSS`
 
 ---
 
-#### 🪵 Arora Yarn Traders
-*Business website for a yarn trading company with inquiry + email integration.*
-- 🛠️ **Stack**: `Next.js` `Tailwind CSS`
+#### 🎯 [3D Portfolio](https://github.com/kartikeya1213/3d-portfolio)
+*Immersive 3D interactive portfolio website.*
+- `Three.js` `React`
 
 ---
 
-#### 💰 Capital Gains Calculator
-*Web tool to calculate and visualize capital gains tax in real-time.*
-- 🛠️ **Stack**: `React` `JavaScript`
+#### 💼 [Digital Vibe Solutions — Website](https://github.com/kartikeya1213/digitalvibesolutions)
+*Digital marketing agency website.*
+- `React` `Node.js`
 
 ---
 
-#### 🏋️ Gym Dashboard
-*Fitness center management — members, subscriptions & attendance.*
-- 🛠️ **Stack**: `React` `Node.js`
+#### 🗂️ [Digital Vibe CRM](https://github.com/kartikeya1213/digitalvibe-crm)
+*Internal full-stack CRM — multi-role auth, client management, task tracking & lead pipeline.*
+- `React` `Node.js` `MySQL`
 
 ---
 
-#### 🛍️ E-Commerce Platform
-*Full-featured e-commerce — listings, cart, checkout, order management.*
-- 🛠️ **Stack**: `React` `Node.js` `MySQL`
+#### 🪵 [Arora Yarn Traders](https://github.com/kartikeya1213/arorayarntraders)
+*Business website with product catalogue & email inquiry integration.*
+- `Next.js` `Tailwind CSS`
 
 ---
 
-#### 📦 ERP — Rock Gain
+#### 💰 [Capital Gains Calculator](https://github.com/kartikeya1213/capital-gains)
+*Real-time capital gains tax calculator and chart visualizer.*
+- `React` `JavaScript`
+
+---
+
+#### 🛍️ [E-Commerce Platform](https://github.com/kartikeya1213/e-commerce)
+*Full-featured e-commerce — product listings, cart, checkout & order management.*
+- `React` `Node.js` `MySQL`
+
+---
+
+#### 📦 [ERP — Rock Gain](https://github.com/kartikeya1213/erp-rockgain)
 *Enterprise Resource Planning — inventory, orders & reporting dashboards.*
-- 🛠️ **Stack**: `React` `Node.js` `MySQL`
+- `React` `Node.js` `MySQL`
 
 ---
 
-#### 🎨 Aesthtica
+#### 🏋️ [Gym Dashboard](https://github.com/kartikeya1213/gym-dummy)
+*Fitness center management — members, subscriptions & attendance.*
+- `React` `Node.js`
+
+---
+
+#### 🎨 [Aesthtica](https://github.com/kartikeya1213/aesthtica)
 *Premium beauty & lifestyle brand with immersive scroll animations.*
-- 🛠️ **Stack**: `Next.js` `GSAP` `Framer Motion`
+- `Next.js` `GSAP` `Framer Motion`
 
 ---
 
-#### 🎭 Art & Culture Festival
-*Event website — schedule, gallery & registration. Full-stack + static versions.*
-- 🛠️ **Stack**: `Next.js` / `HTML` `CSS` `JS`
+#### 🎭 [Art & Culture Festival — Full Stack](https://github.com/kartikeya1213/artculturefestival-full)
+*Event platform — schedule, gallery & registration.*
+- `Next.js` `Node.js`
 
 ---
 
-#### 💍 Wedding Invitation (x2)
-*Digital animated wedding invitations with RSVP functionality.*
-- 🛠️ **Stack**: `React` `CSS Animations`
+#### 🎭 [Art & Culture Festival — Static](https://github.com/kartikeya1213/artculturefestival-static)
+*Static version of the Art & Culture Festival website.*
+- `HTML` `CSS` `JavaScript`
 
 ---
 
-#### 🌐 3D Portfolio
-*Personal interactive portfolio with immersive 3D elements.*
-- 🛠️ **Stack**: `Three.js` `React`
+#### 💍 [Wedding Invitation](https://github.com/kartikeya1213/wedding-invitation)
+*Animated digital wedding invitation with RSVP functionality.*
+- `React` `CSS Animations`
 
 ---
 
-#### 🎪 Tyohaar
-*Festival & event discovery platform with listings, categories & registration.*
-- 🛠️ **Stack**: `Next.js` `Tailwind CSS`
+#### 💍 [Wedding Invitation v2](https://github.com/kartikeya1213/wedding-invitation-2)
+*Second animated digital wedding invitation.*
+- `React` `CSS Animations`
 
 ---
 
-#### 🏦 Bank Statement Analyzer
+#### 💎 [Kollabix — Agency Portal](https://github.com/kartikeya1213/kollabix-a)
+*Agency side of the two-sided influencer marketing platform.*
+- `React` `Node.js`
+
+---
+
+#### 💎 [Kollabix — Influencer Portal](https://github.com/kartikeya1213/kollabix-influencer)
+*Influencer side — campaigns, analytics & collaboration tools.*
+- `React` `Node.js`
+
+---
+
+#### 🎪 [Tyohaar](https://github.com/kartikeya1213/tyohaar)
+*Festival & event discovery platform with listings & registration.*
+- `Next.js` `Tailwind CSS`
+
+---
+
+#### 🏦 [Bank Statement Analyzer](https://github.com/kartikeya1213/bank-statement)
 *Parses, categorizes and visualizes bank statement PDFs.*
-- 🛠️ **Stack**: `Python` `JavaScript`
+- `Python` `JavaScript`
 
 ---
 
-#### ⚙️ Gmail Automation
+#### ⚙️ [Gmail Automation](https://github.com/kartikeya1213/gmail-automation)
 *Automated Gmail workflows — auto-reply, template sending & inbox management.*
-- 🛠️ **Stack**: `Python` `Google APIs`
+- `Python` `Google APIs`
 
 ---
 
-#### 🏗️ Furniture Backend
-*REST API for a furniture e-commerce — products, orders, auth.*
-- 🛠️ **Stack**: `Node.js` `Express` `MySQL`
+#### 🏗️ [Furniture Backend](https://github.com/kartikeya1213/furniture-backend)
+*REST API for furniture e-commerce — products, orders & auth.*
+- `Node.js` `Express` `MySQL`
 
 ---
 
-#### 💎 Kollabix (Agency + Influencer Portals)
-*Two-sided influencer marketing platform — campaigns, analytics & collaboration.*
-- 🛠️ **Stack**: `React` `Node.js`
+#### ⛏️ [Mining](https://github.com/kartikeya1213/mining)
+*Mining data project.*
+- `JavaScript`
 
 ---
 
-#### 🧩 Browser Extension
+#### 🪨 [Rock Gain](https://github.com/kartikeya1213/rockgain)
+*Rock Gain business platform.*
+- `React` `Node.js`
+
+---
+
+#### 👕 [Example Clothing](https://github.com/kartikeya1213/example-clothing)
+*Clothing e-commerce example project.*
+- `React`
+
+---
+
+#### 🧩 [Browser Extension](https://github.com/kartikeya1213/extension)
 *Custom browser extension for productivity workflows.*
-- 🛠️ **Stack**: `JavaScript` `Chrome Extension APIs`
+- `JavaScript` `Chrome Extension APIs`
 
 ---
 
 #### 🎮 [Tic Tac Toe](https://github.com/kartikeya1213/tic_tac_toe)
 *Interactive browser game — vanilla JS state machine & DOM logic.*
-- 🛠️ **Stack**: `HTML` `CSS` `JavaScript`
+- `HTML` `CSS` `JavaScript`
 
 ---
 
 #### 📊 [API Render Table](https://github.com/kartikeya1213/API-Render-Table)
-*Lightweight widget — renders JSON API feeds into filterable HTML tables.*
-- 🛠️ **Stack**: `HTML` `CSS` `JavaScript`
+*Renders JSON API feeds into filterable HTML tables.*
+- `HTML` `CSS` `JavaScript`
 
 ---
 
 #### 🐍 [Python Project](https://github.com/kartikeya1213/Python_Project)
-*Python-based data processing and automation scripts.*
-- 🛠️ **Stack**: `Python`
+*Python data processing and automation scripts.*
+- `Python`
 
 ---
 
 #### 📋 [Table Assignment](https://github.com/kartikeya1213/table-assignment)
-*HTML/CSS table layout and styling practice.*
-- 🛠️ **Stack**: `HTML` `CSS`
+*HTML/CSS table layout and styling.*
+- `HTML` `CSS`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeya1213&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Kartikeya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Kartikeya's Top Languages" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikeya1213&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kartikeya1213&theme=tokyonight&hide_border=true&background=0D1117" alt="Kartikeya's GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=kartikeya1213&theme=tokyonight&hide_border=true&background=0D1117&fire=7c3aed&ring=7c3aed&currStreakLabel=7c3aed" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kartikeya1213&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 <p align="center">
