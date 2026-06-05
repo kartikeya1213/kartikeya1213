@@ -247,6 +247,14 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
 
 ---
 
+### 🤝 Connect & Network
+
+* ✨ **I follow back!** Drop a follow and I'll return the favor. Let's connect and build a strong developer network!
+* 💬 Ask me about: **Next.js, React, GSAP animations, and full-stack development**.
+* 📧 Email: [kartikeya.raj29@gmail.com](mailto:kartikeya.raj29@gmail.com)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
