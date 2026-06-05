@@ -250,18 +250,21 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikeya1213&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <a href="https://github.com/kartikeya1213?tab=followers">
+    <img src="https://img.shields.io/github/followers/kartikeya1213?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0D1117&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kartikeya1213?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-30%2B-7c3aed?style=for-the-badge&labelColor=0D1117&logo=github" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kartikeya1213&label=Profile+Views&color=7c3aed&style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kartikeya1213&theme=tokyonight&hide_border=true&background=0D1117&fire=7c3aed&ring=7c3aed&currStreakLabel=7c3aed" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikeya1213&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7c3aed&line=7c3aed&point=ffffff" width="97%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikeya1213&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikeya1213&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=450" alt="Top Languages" />
 </p>
