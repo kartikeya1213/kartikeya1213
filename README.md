@@ -5,10 +5,6 @@
 <h1 align="center">Hi there, I'm Kartikeya Raj! 👋</h1>
 
 <p align="center">
-  <img src="profile_pic.jpeg" alt="Kartikeya Raj" width="180" height="180" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
   <strong>Full Stack Developer | Next.js · React · Node.js · Animations · Web Performance</strong>
 </p>
 
