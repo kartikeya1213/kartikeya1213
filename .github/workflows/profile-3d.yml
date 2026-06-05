@@ -18,8 +18,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Post-process SVGs to hide public-only charts
+      - name: Post-process SVGs to inject private stats & languages
         run: node postprocess.js
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
