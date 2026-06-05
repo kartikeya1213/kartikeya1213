@@ -266,5 +266,5 @@ I'm a passionate **Full Stack Developer** who builds premium, high-performance w
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikeya1213&layout=compact&hide_border=true&bg_color=0D1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&langs_count=10&card_width=450" alt="Top Languages" />
 </p>
